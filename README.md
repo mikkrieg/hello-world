@@ -29,6 +29,8 @@ many parts of South America, Japan, France, Germany and More!_
 
 [MIT](https://opensource.org/licenses/MIT)
 
+Copyright(c) 2020 Mikey Kriegel
+
 ## Contact Information
 
-I'm available to contact at mikkrieg@gmail.com
+Mikey Kriegel: mikkrieg@gmail.com
