@@ -1,0 +1,17 @@
+body {
+  background-color: #00FFFF;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+
+h2 {
+  color: #000FFF;
+}
+
+ul {
+  list-style-position: inside;
+}
