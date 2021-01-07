@@ -29,7 +29,7 @@ many parts of South America, Japan, France, Germany and More!_
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright(c) 2020 Mikey Kriegel
+Copyright(c) 2021 Mikey Kriegel
 
 ## Contact Information
 
